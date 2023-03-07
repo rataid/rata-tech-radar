@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Visual Studio",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "Spring Boot",
+    "ring": "trial",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "Gradle",
+    "ring": "assess",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": "description"
+  },
+  {
+    "name": "MySQL",
+    "ring": "hold",
+    "quadrant": "datasource",
+    "isNew": "FALSE",
+    "description": "description"
+  }
+]
