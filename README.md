@@ -2,9 +2,9 @@
 
 Link Tech Radar
 
-- [BackEnd](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Frataid%2Frata-tech-radar%2Fmaster%2Fbe%2Fdata.json)
-- [ FronEnd](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Frataid%2Frata-tech-radar%2Fmaster%2Ffe%2Fdata.json)
-- [Quality Assurance](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Frataid%2Frata-tech-radar%2Fmaster%2Fqa%2Fdata.json)
+- [BackEnd](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Frataid%2Frata-tech-radar%2Fmaster%2Fbe%2Fbackend.json)
+- [FronEnd](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Frataid%2Frata-tech-radar%2Fmaster%2Ffe%2Ffrontend.json)
+- [Quality Assurance](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Frataid%2Frata-tech-radar%2Fmaster%2Fqa%2Fquality-assurance.json)
 
 ## What is the Tech Radar?
 
