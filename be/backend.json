@@ -1,5 +1,4 @@
 [
-  // Section Languange
   {
     "name": "Java 8",
     "ring": "adopt",
@@ -35,7 +34,6 @@
     "isNew": "FALSE",
     "description": "N/A"
   },
-  // Section Datasource
   {
     "name": "MySQL",
     "ring": "adopt",
@@ -50,7 +48,6 @@
     "isNew": "FALSE",
     "description": "N/A"
   },
-  // Section Library, Framework & Platform
   {
     "name": "Spring Boot - Web",
     "ring": "adopt",
@@ -121,7 +118,6 @@
     "isNew": "TRUE",
     "description": "N/A"
   },
-  // Section Tools
   {
     "name": "Intellij IDEA",
     "ring": "adopt",
@@ -142,5 +138,5 @@
     "quadrant": "tools",
     "isNew": "FALSE",
     "description": "N/A"
-  },
+  }
 ]
