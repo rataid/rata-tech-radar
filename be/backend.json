@@ -108,14 +108,14 @@
     "name": "Gradle",
     "ring": "adopt",
     "quadrant": "libraries, frameworks & platforms",
-    "isNew": "TRUE",
+    "isNew": "FALSE",
     "description": "N/A"
   },
   {
     "name": "Maven",
     "ring": "hold",
     "quadrant": "libraries, frameworks & platforms",
-    "isNew": "TRUE",
+    "isNew": "FALSE",
     "description": "N/A"
   },
   {
