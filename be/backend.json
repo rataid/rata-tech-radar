@@ -1,30 +1,146 @@
 [
+  // Section Languange
   {
-    "name": "Visual Studio",
+    "name": "Java 8",
     "ring": "adopt",
-    "quadrant": "tools",
+    "quadrant": "languages",
     "isNew": "FALSE",
-    "description": "test"
+    "description": "N/A"
   },
   {
-    "name": "Spring Boot",
-    "ring": "trial",
-    "quadrant": "languages & frameworks",
+    "name": "Java 11",
+    "ring": "adopt",
+    "quadrant": "languages",
     "isNew": "FALSE",
-    "description": "test"
+    "description": "N/A"
+  },
+  {
+    "name": "Java 16",
+    "ring": "adopt",
+    "quadrant": "languages",
+    "isNew": "FALSE",
+    "description": "N/A"
+  },
+  {
+    "name": "Java 17",
+    "ring": "assess",
+    "quadrant": "languages",
+    "isNew": "TRUE",
+    "description": "PIC: Rizki"
+  },
+  {
+    "name": "Ruby",
+    "ring": "hold",
+    "quadrant": "languages",
+    "isNew": "FALSE",
+    "description": "N/A"
+  },
+  // Section Datasource
+  {
+    "name": "MySQL",
+    "ring": "adopt",
+    "quadrant": "datasource",
+    "isNew": "FALSE",
+    "description": "N/A"
+  },
+  {
+    "name": "PostgreSQL",
+    "ring": "adopt",
+    "quadrant": "datasource",
+    "isNew": "FALSE",
+    "description": "N/A"
+  },
+  // Section Library, Framework & Platform
+  {
+    "name": "Spring Boot - Web",
+    "ring": "adopt",
+    "quadrant": "libraries, frameworks & platforms",
+    "isNew": "FALSE",
+    "description": "N/A"
+  },
+  {
+    "name": "Spring Boot - Data JPA",
+    "ring": "adopt",
+    "quadrant": "libraries, frameworks & platforms",
+    "isNew": "FALSE",
+    "description": "N/A"
+  },
+  {
+    "name": "Spring Boot - MyBatis",
+    "ring": "adopt",
+    "quadrant": "libraries, frameworks & platforms",
+    "isNew": "FALSE",
+    "description": "N/A"
+  },
+  {
+    "name": "Spring Boot - WebFlux",
+    "ring": "assess",
+    "quadrant": "libraries, frameworks & platforms",
+    "isNew": "TRUE",
+    "description": "PIC: Rizki"
+  },
+  {
+    "name": "Project Lombok",
+    "ring": "adopt",
+    "quadrant": "libraries, frameworks & platforms",
+    "isNew": "FALSE",
+    "description": "N/A"
+  },
+  {
+    "name": "AWS EB",
+    "ring": "adopt",
+    "quadrant": "libraries, frameworks & platforms",
+    "isNew": "FALSE",
+    "description": "N/A"
+  },
+  {
+    "name": "AWS S3",
+    "ring": "adopt",
+    "quadrant": "libraries, frameworks & platforms",
+    "isNew": "FALSE",
+    "description": "N/A"
+  },
+  {
+    "name": "Jenkins",
+    "ring": "adopt",
+    "quadrant": "libraries, frameworks & platforms",
+    "isNew": "FALSE",
+    "description": "N/A"
   },
   {
     "name": "Gradle",
-    "ring": "assess",
-    "quadrant": "platforms",
+    "ring": "adopt",
+    "quadrant": "libraries, frameworks & platforms",
     "isNew": "TRUE",
-    "description": "description"
+    "description": "N/A"
   },
   {
-    "name": "MySQL",
+    "name": "Maven",
     "ring": "hold",
-    "quadrant": "datasource",
+    "quadrant": "libraries, frameworks & platforms",
+    "isNew": "TRUE",
+    "description": "N/A"
+  },
+  // Section Tools
+  {
+    "name": "Intellij IDEA",
+    "ring": "adopt",
+    "quadrant": "tools",
     "isNew": "FALSE",
-    "description": "description"
-  }
+    "description": "N/A"
+  },
+  {
+    "name": "DataGrip",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "N/A"
+  },
+  {
+    "name": "Postman",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "N/A"
+  },
 ]
