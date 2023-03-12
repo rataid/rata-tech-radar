@@ -1,36 +1,85 @@
 [
   {
+    "name": "Spring Boot - Web",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "N/A"
+  },
+  {
+    "name": "Spring Boot - Data JPA",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "N/A"
+  },
+  {
+    "name": "Spring Boot - MyBatis",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "N/A"
+  },
+  {
+    "name": "Spring Boot - WebFlux",
+    "ring": "assess",
+    "quadrant": "languages & frameworks",
+    "isNew": "TRUE",
+    "description": "PIC: Rizki"
+  },
+  {
+    "name": "Project Lombok",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "N/A"
+  },
+  {
+    "name": "AWS EB",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "N/A"
+  },
+  {
+    "name": "AWS S3",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "N/A"
+  },
+  {
     "name": "Java 8",
     "ring": "adopt",
-    "quadrant": "languages",
+    "quadrant": "languages & frameworks",
     "isNew": "FALSE",
     "description": "N/A"
   },
   {
     "name": "Java 11",
     "ring": "adopt",
-    "quadrant": "languages",
+    "quadrant": "languages & frameworks",
     "isNew": "FALSE",
     "description": "N/A"
   },
   {
     "name": "Java 16",
     "ring": "adopt",
-    "quadrant": "languages",
+    "quadrant": "languages & frameworks",
     "isNew": "FALSE",
     "description": "N/A"
   },
   {
     "name": "Java 17",
     "ring": "assess",
-    "quadrant": "languages",
+    "quadrant": "languages & frameworks",
     "isNew": "TRUE",
     "description": "PIC: Rizki"
   },
   {
     "name": "Ruby",
     "ring": "hold",
-    "quadrant": "languages",
+    "quadrant": "languages & frameworks",
     "isNew": "FALSE",
     "description": "N/A"
   },
@@ -49,72 +98,23 @@
     "description": "N/A"
   },
   {
-    "name": "Spring Boot - Web",
-    "ring": "adopt",
-    "quadrant": "libraries, frameworks & platforms",
-    "isNew": "FALSE",
-    "description": "N/A"
-  },
-  {
-    "name": "Spring Boot - Data JPA",
-    "ring": "adopt",
-    "quadrant": "libraries, frameworks & platforms",
-    "isNew": "FALSE",
-    "description": "N/A"
-  },
-  {
-    "name": "Spring Boot - MyBatis",
-    "ring": "adopt",
-    "quadrant": "libraries, frameworks & platforms",
-    "isNew": "FALSE",
-    "description": "N/A"
-  },
-  {
-    "name": "Spring Boot - WebFlux",
-    "ring": "assess",
-    "quadrant": "libraries, frameworks & platforms",
-    "isNew": "TRUE",
-    "description": "PIC: Rizki"
-  },
-  {
-    "name": "Project Lombok",
-    "ring": "adopt",
-    "quadrant": "libraries, frameworks & platforms",
-    "isNew": "FALSE",
-    "description": "N/A"
-  },
-  {
-    "name": "AWS EB",
-    "ring": "adopt",
-    "quadrant": "libraries, frameworks & platforms",
-    "isNew": "FALSE",
-    "description": "N/A"
-  },
-  {
-    "name": "AWS S3",
-    "ring": "adopt",
-    "quadrant": "libraries, frameworks & platforms",
-    "isNew": "FALSE",
-    "description": "N/A"
-  },
-  {
     "name": "Jenkins",
     "ring": "adopt",
-    "quadrant": "libraries, frameworks & platforms",
+    "quadrant": "platforms",
     "isNew": "FALSE",
     "description": "N/A"
   },
   {
     "name": "Gradle",
     "ring": "adopt",
-    "quadrant": "libraries, frameworks & platforms",
+    "quadrant": "platforms",
     "isNew": "FALSE",
     "description": "N/A"
   },
   {
     "name": "Maven",
     "ring": "hold",
-    "quadrant": "libraries, frameworks & platforms",
+    "quadrant": "platforms",
     "isNew": "FALSE",
     "description": "N/A"
   },
